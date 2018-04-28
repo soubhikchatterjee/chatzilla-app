@@ -1,0 +1,22 @@
+{
+  "name": "chatzilla",
+  "version": "1.0.0",
+  "description": "Chat application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Soubhik Chatterjee",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "express-validator": "^5.0.3",
+    "jsonwebtoken": "^8.2.0",
+    "lodash": "^4.17.5",
+    "mongoose": "^5.0.9",
+    "morgan": "^1.9.0"
+  }
+}
