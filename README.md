@@ -5,13 +5,9 @@ ChatZilla Chat Server + Client
 
 ### Step 1. Install npm dependencies
 
- `npm install`
+ `cd server && npm install`
 
-### Step 2. Run gulp
-
- `gulp`
- 
- or
+### Step 2. Run the app
 
  `npm start`
 
